@@ -3,7 +3,7 @@
 ## h2title
 #### h4title
 
-> 百度一下 [点击搜索]((https://www.baidu.com/)).
+> 百度一下 [点击搜索](https://www.baidu.com/).
 
 ![cat](cat.jpg "cat")
 
