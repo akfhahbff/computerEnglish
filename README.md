@@ -5,7 +5,7 @@
 
 > 百度一下 [点击搜索](https://www.baidu.com/).
 
-![cat](cat.jpg "cat")
+![cat](cat.jpg)
 
 ![cat2](https://i.loli.net/2021/04/30/hT8XnAtMlCaDNuB.jpg "another cat")
 
